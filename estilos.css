@@ -11,12 +11,15 @@ h1{
     background-color: black;
     color: white;
     text-align: right;
+    margin: 0;
+    padding: 10px;
 }
 
 h2{
     background-color: #808080;
     color: white;
     text-align: center;
+    
 }
 
 span.cargo{
@@ -28,8 +31,10 @@ span.lugar{
     color: blue;
 }
 
-span.comillas{
-    font-size: x-large;
+q{
+border-bottom: red 1px dashed;
+  font-family: serif;
+  font-size: 150%;
 }
 
 hr.negro{
